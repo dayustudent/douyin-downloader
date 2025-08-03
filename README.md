@@ -34,9 +34,9 @@
 
 | 版本类型 | 说明 | 下载地址 |
 |--------|------|---------|
-| 🧩 **可安装版（UI）** | 带图形界面，一键安装，自动配置 Chromedriver | [👉 点击下载 Installer](https://github.com/dayustudent/douyin-downloader/releases/download/latest/UI-Installer-DouyinDownloader.exe) |
-| 🧳 **便携版 - UI** | 无需安装，解压即用，带图形界面 | [👉 点击下载 UI 版](https://github.com/dayustudent/douyin-downloader/releases/download/latest/UI-DouyinDownloader.exe) |
-| 🖥️ **便携版 - CLI** | 无界面，命令行运行，轻量高效 | [👉 点击下载 CLI 版](https://github.com/dayustudent/douyin-downloader/releases/download/latest/DouyinDownloader.exe) |
+| 🧩 **可安装版（UI）** | 带图形界面，一键安装，自动配置 Chromedriver | [👉 点击下载 Installer](https://github.com/dayustudent/douyin-downloader/releases/download/v1.0.0/UI-Installer-DouyinDownloader.exe) |
+| 🧳 **便携版 - UI** | 无需安装，解压即用，带图形界面 | [👉 点击下载 UI 版](https://github.com/dayustudent/douyin-downloader/releases/download/v1.0.0/UI-DouyinDownloader.exe) |
+| 🖥️ **便携版 - CLI** | 无界面，命令行运行，轻量高效 | [👉 点击下载 CLI 版](https://github.com/dayustudent/douyin-downloader/releases/download/v1.0.0/DouyinDownloader.exe) |
 
 ---
 
@@ -88,7 +88,7 @@ douyin-downloader/
 
 ### 🧩 使用可安装版（推荐新手）
 
-1. 下载安装程序：[UI-Installer-DouyinDownloader.exe](https://github.com/dayustudent/douyin-downloader/releases/download/latest/UI-Installer-DouyinDownloader.exe)
+1. 下载安装程序：[UI-Installer-DouyinDownloader.exe](https://github.com/dayustudent/douyin-downloader/releases/download/v1.0.0/UI-Installer-DouyinDownloader.exe)
 2. 双击运行，按提示选择安装路径
 3. 安装程序会**自动引导你下载 Chromedriver**
 4. 安装完成后创建桌面快捷方式，一键启动！
@@ -100,12 +100,12 @@ douyin-downloader/
 ### 🧳 使用便携版（绿色免安装）
 
 #### 方式一：带界面（推荐普通用户）
-1. 下载：[UI-DouyinDownloader.exe](https://github.com/dayustudent/douyin-downloader/releases/download/latest/UI-DouyinDownloader.exe)
+1. 下载：[UI-DouyinDownloader.exe](https://github.com/dayustudent/douyin-downloader/releases/download/v1.0.0/UI-DouyinDownloader.exe)
 2. 下载对应版本的 `chromedriver.exe` 并放入同目录
 3. 双击运行，输入链接即可下载
 
 #### 方式二：命令行版（适合高级用户）*（该功能测试中）*
-1. 下载：[DouyinDownloader.exe](https://github.com/dayustudent/douyin-downloader/releases/download/latest/DouyinDownloader.exe)
+1. 下载：[DouyinDownloader.exe](https://github.com/dayustudent/douyin-downloader/releases/download/v1.0.0/DouyinDownloader.exe)
 2. 打开 CMD，运行：
 ```bash
 DouyinDownloader.exe --url "https://www.douyin.com/video/1234567890123456789"
