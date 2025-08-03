@@ -1,0 +1,24 @@
+# 抖音无水印视频下载器 - 依赖库清单
+# 安装命令: pip install -r requirements.txt
+
+# 浏览器自动化
+selenium>=4.0.0
+
+# HTTP 请求库
+requests>=2.25.0
+
+# HTML 解析器
+beautifulsoup4>=4.9.0
+
+# 图形界面支持
+tkinter  # 标准库，无需安装，但列出以作说明
+ttkbootstrap>=1.8.0  # 美化 Tkinter 界面
+
+# 命令行参数解析（CLI 版本使用）
+argparse  # 标准库
+
+# Windows 快捷方式支持（安装器使用）
+pywin32  # 用于创建 .lnk 快捷方式
+
+# 日志记录
+logging  # 标准库
