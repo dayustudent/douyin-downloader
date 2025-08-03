@@ -166,6 +166,7 @@ https://www.douyin.com/video/7891234560123456789
 ## 📬 联系方式
 
 - GitHub: [@dayustudent](https://github.com/dayustudent)
+- Gitee : [@dayustudent](https://gitee.com/dayustudent)
 - 邮箱：dayutx@126.com
 
 ---
